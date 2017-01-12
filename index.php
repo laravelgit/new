@@ -100,6 +100,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 </div>
 
 
+
 <a href="#crop-popup" class="open-popup">Open Jcrop</a>
 
 
