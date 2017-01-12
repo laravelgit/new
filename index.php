@@ -1,5 +1,5 @@
 <?php
-// edit
+
 /**
  * Jcrop image cropping plugin for jQuery
  * Example cropping script
@@ -100,7 +100,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 </div>
 
 
-<a href="#crop-popup" class="open-popup">Open Jcrop</div>
+<a href="#crop-popup" class="open-popup">Open Jcrop</a>
 
 
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
